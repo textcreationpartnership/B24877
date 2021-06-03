@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It being the laudable custom of our ancestors, when they elected and authorized their knights, citizens, and burgesses to deliver them breviates of all those publick grievances they thought necessary to be redressed, and such propositions as they apprehended most effectual for the welfare and prosperity of themselves and the English nation, to be vigorously prosecuted by them in Parliament; ...</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24877</idno><idno type="EEBO-CITATION">99888569</idno>
+  <idno type="VID">194211</idno>
+  <idno type="EEBO-PROQUEST">2240899724</idno>
+  
+            <idno type="STC">Wing I1080A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[407]</idno>
+            <idno type="STC">ESTC R231080</idno>
+            <idno type="PROQUEST">ocm99888569</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888569e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194211)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[408])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It being the laudable custom of our ancestors, when they elected and authorized their knights, citizens, and burgesses to deliver them breviates of all those publick grievances they thought necessary to be redressed, and such propositions as they apprehended most effectual for the welfare and prosperity of themselves and the English nation, to be vigorously prosecuted by them in Parliament; ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  History --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194211:1"/>
+            <p>IT being the laudable Custom of our Ancestors, when they elected and authorized their <hi>Knights, Citizens,</hi> and <hi>Burgesses,</hi> to deliver them <hi>Breviates</hi> of all those <hi>publick Grievances</hi> they thought necessary to be redressed, and such Propositions as they ap<g ref="char:EOLhyphen"/>prehended most effectual for the <hi>welfare</hi> and <hi>prosperity</hi> of themselves and the English Nation, to be vigorously prosecuted by them in <hi>Parliament;</hi> We the <hi>Freeholders, Citizens</hi> and <hi>Burgesses</hi> of the respective Counties, Cities, and Boroughs of the late <hi>associated VVestern Counties</hi> (whose names are hereunto subscribed) reviving this good Custom, as the probablest means (through Gods blessing thereon) to remove our manifold long continued <hi>oppressing Grievances,</hi> restore our subverted <hi>fundamental Laws, Liberties, Properties,</hi> with the <hi>Rights, Privileges, and Freedom of Parliaments,</hi> and their <hi>Members,</hi> and establish a long expected <hi>Re<g ref="char:EOLhyphen"/>formation, Peace, Settlement</hi> in our sadly distracted, near-ruinated <hi>Church</hi> and <hi>State;</hi> in <hi>this day</hi> wherein we hope <hi>the Lord will bind up the breaches of his people, and heal the stroke of their wounds;</hi> have thereupon unanimously drawn up these ensuing twelve general Heads of <hi>Grievances,</hi> and such usefull necessary <hi>Proposals,</hi> which we earnestly recommend to the <hi>deliberate consideration,</hi> and <hi>industrious pro<g ref="char:EOLhyphen"/>secution</hi> of all and every our elected <hi>Knights, Citizens,</hi> and <hi>Burgesses</hi> in the approaching <hi>General Assembly</hi> at <hi>Westminster,</hi> as they will answer the contrary to <hi>God,</hi> the whole <hi>English Nation,</hi> and <hi>us</hi> who have intrusted them. In the diligent pursuit whereof, and dis<g ref="char:EOLhyphen"/>charge of the <hi>publick trust</hi> now reposed in them, we do hereby faithfully promise (according to our former <hi>Protestation,</hi> and <hi>Solema League and Covenant</hi>) in our <hi>several places and callings, to be constantly ayding, and cordially assisting to them with our Estates and Lives,</hi> by all just and lawfull means.</p>
+            <p n="1">1. That all and every of these our elected <hi>Trustees</hi> shall improve their utmost power and skill sincerely, constantly, and effectu<g ref="char:EOLhyphen"/>ally to vindicate, and restablish the antient undoubted just Rights, Privileges, Immunities of lawfull English Parliaments, and all their proper Members; to secure them and every of them from all future force, violence, unjust seclusions, ejections, suspensions, oaths, engagements, and against all forein Intruders into them, by all legal waies; without which no future Parliaments can be ei<g ref="char:EOLhyphen"/>ther legal, medicinal or beneficial to the Nation, but destructive and oppressive <hi>Nusances.</hi>
+            </p>
+            <p n="2">2. To maintain, propagate, and restore the true publick worship of God, the sincere preaching of the Gospel, the due ad<g ref="char:EOLhyphen"/>ministration of Baptism, and free and frequent celebration of the Lords Supper in all places where they are wilfully neglected; to execute all good suspended Laws against Jesuits, Papists, seminary Priests, blasphemous Hereticks, Sectaries, Atheists; and to redress the manifold exorbitances, and illegal arbitrary proceedings of Committees for sequestring, ejecting out of, and trying, approving, admitting Ministers to Benefices and Church-livings.</p>
+            <p n="3">3. To restore, restablish, and defend against all future Violations the Great Charters of our Liberties, with all other good fundamental Laws, securing the Lives, Liberties, Freeholds, Properties of the Freemen of <hi>England,</hi> against all illegal excutions, imprisonments, banishments, confinements, restraints, violent breaking up, and ransacking of their Houses, Studies, Cabinets, by day and night, forfeitures, sequestrations, disseisins, outlawries, taxes, imposts, and all arbitrary or tyranical proceedings whatso<g ref="char:EOLhyphen"/>ever; and to punish all late transcendent Violatious of them in every kind, in some of those who have more wilfully, audaciously, and treacherously subverted them than any in former times, against their Oaths, Trusts, Covenants, Protestations, and late pub<g ref="char:EOLhyphen"/>lick censures of others as Traytors, and publick Enemies, for lesser offences.</p>
+            <p n="4">4. To ease and unburden our impoverished, oppressed Nations from their many years unsupportable, incessant Burdens, Taxes, Contributions, Excises, and Imposts of all kinds, and the insufferable oppressions, abuses of Excise-men, Customers, Collectors, Souldiers, and other Officers in the levying thereof, deserving exemplary punishments for future terror unto others.</p>
+            <p n="5">5. To examine, redress, and punish all Extortions, extorted fees and corruptions in all publick Courts of Justice, Officers, and Offices relating to them; especially in the Crown-Office, Exchequer, Admiralty, and Office for Probate of Wills, and granting Administrations, (extorting ten times more than the Statute of 21. <hi>H.</hi> 8. <hi>c.</hi> 5. allows) Together with the late intollerable extorsions, abuses of all Keepers of Prisons, Goalers, Marshals, Messengers and Pursevants.</p>
+            <p n="6">6. To suppress all future arbitrary, illegal, criminal, and capital Proceedings in New High-Courts of Justice, endangering all mens lives; and to examine all irregular proceedings therein to the destruction of any Innocents.</p>
+            <p n="7">7. To examine, redress, correct the manifold Exorbitances and Usurpations of the late Counsels of State, exceeding those of the old Counsel-Table, against the express provision and tenor of the late Statute, made in the Parliament of 17 <hi>Caroli,</hi> for regu<g ref="char:EOLhyphen"/>lating the Privy Counsel; which we desire may be henceforth duly executed.</p>
+            <p n="8">8. To discharge and disband all unnecessary Garrisons, and superfluous Mercinary forces by Land or Sea; to re-settle the antient Trained-bands and Militia of the Nation for its necessary future defence, and easing the People from all needless taxes and burdens: and to resume all the antient Lands, Rents, and Revenues of the Crown, given or granted away to private Persons for unvaluable considerations, without lawfull Authority, which formerly did and still ought to discharge all ordinary publick expenses of the Nation and Government.</p>
+            <p n="9">9. To remove all Obstructions of the free trade and traffique of this Nation, by unchristian and unjust wars with any Neigh<g ref="char:EOLhyphen"/>bour-Nations formerly in league or amity with <hi>England:</hi> impressing of Merchants ships or Mariners, over-high Customs and Im<g ref="char:EOLhyphen"/>positions upon Merchandize imported and exported, imploying Foreiners ships and Seamen by English Merchants, unjust seisures of Merchants Goods, Letters of Mart, or any other means: and by punishing the late, and preventing the future intollerable waste and destruction of Ship-timber in <hi>England</hi> and <hi>Ireland,</hi> and transportation of it into forein parts, to the apparent dammage and decay both of the Shipping and Navy of the Nation.</p>
+            <p n="10">10. To call all Treasurers, Collectors, Receivers, and other Officers whatsoever imployed in the sale, collecting, levying, se<g ref="char:EOLhyphen"/>questring, or leasing of any Lands, Rents, Customs, Taxes, Excises, Sequestrations, Monies, Woods, Goods, Chattels, Prizes, or other things for 12 years last past to the use of the Publiek, in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to a speedy and just Account for all the several sums of mony, treasure, rents, goods, and profits, received or disbursed by them, or any of them; and to examine, punish all frauds, corruptions, and abuses therein, to the prejudice of the Publick.</p>
+            <p n="11">11. To examine and reform all misdemeanours, and corruptions in the elections of Knights, Citizens, and Burgesses, contrary to the Laws and Statutes of this Land; and to put the antient Statute of 15 <hi>E.</hi> 3. <hi>ch.</hi> 4. and the self-denying Ordinance of 3 <hi>Aprilis</hi> 1645. in due execution, disabling all Military and Civil Officers to sit or Vote as Members in Parliament, unless they shall first resign their Offices; that so they may not over-awe their Fellow-Members, nor be the Peoples Tax-Masters, Pensioners, their own Pay-Masters, and Disposers of the Taxes they impose, at one and the self-same time.</p>
+            <p n="12">12. That according to the course and practise of our antient Parliaments, they will take special care to see all these and other publick Grievances effectually redressed, the Privileges of Parliament, the Grand Charters, and all good old fundamental Laws of the Land, preserving the Lives, Liberties, Freeholds, Properties of the People effectually restablished, and by all good means secured against future Infringements, before they admit of any further Debates, or grant the least publick Ayd or Tax whatsoever, to our further prejudice.</p>
+            <closer>
+               <dateline>In Testimony of our full, free, and unanimous consent to all and every the premises, we have hereunto set, not only our <hi>hands,</hi> but our <hi>hearts</hi> together with them.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
